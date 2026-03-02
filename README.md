@@ -2,7 +2,7 @@
 
 Report: <br>
 Project Report link: https://docs.google.com/document/d/1sTwSPB9s3ExPVGQVPYmEpfTEXJB-UBckiNXfYL9grAA/edit?usp=sharing <br>
-Project Report - Vital Signs: Hospital Finance.pdf can be found in GitHub <br>
+Project Report - Vital Signs_Hospital Finance.pdf can be found in GitHub <br>
 
 Code: <br>
 Vital Signs-Hospital Finance.ipynb can be found in Github <br>
