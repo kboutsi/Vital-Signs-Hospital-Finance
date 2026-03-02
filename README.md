@@ -1,13 +1,13 @@
 # Vital-Signs-Hospital-Finance
 
-Report:
-Project Report link: https://docs.google.com/document/d/1sTwSPB9s3ExPVGQVPYmEpfTEXJB-UBckiNXfYL9grAA/edit?usp=sharing
-Project Report - Vital Signs: Hospital Finance.pdf can be found in GitHub
+Report: <br>
+Project Report link: https://docs.google.com/document/d/1sTwSPB9s3ExPVGQVPYmEpfTEXJB-UBckiNXfYL9grAA/edit?usp=sharing <br>
+Project Report - Vital Signs: Hospital Finance.pdf can be found in GitHub <br>
 
-Code:
-Vital Signs-Hospital Finance.ipynb can be found in Github
+Code: <br>
+Vital Signs-Hospital Finance.ipynb can be found in Github <br>
 
-Project Data:
-CMS Hostpital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data
-CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data
-merged_df.csv sample of the dataset after preprocessing can be found in GitHub
+Project Data: <br>
+CMS Hostpital Provider Cost Report link: https://data.cms.gov/provider-compliance/cost-reports/hospital-provider-cost-report/data <br>
+CMS Provider of Services link: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system/data <br>
+merged_df.csv sample of the dataset after preprocessing can be found in GitHub <br>
